@@ -3,7 +3,7 @@ const Home = () => {
   return (
     <div>Home
 
-     <p> This is a new paragraph again</p>
+      <p> This is a new paragraph</p>
 
     </div>
   )
