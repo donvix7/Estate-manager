@@ -1,7 +1,8 @@
 
 const Home = () => {
   return (
-    <div>Home
+    <div>
+      <h1>Home</h1>
 
       <p> This is a new paragraph</p>
 
