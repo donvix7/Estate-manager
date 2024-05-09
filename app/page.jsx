@@ -1,9 +1,16 @@
+import Feeds from "@/components/feeds"
+import Footer from "@/components/footer"
+import Nav from "@/components/nav"
 
 const Home = () => {
   return (
-    <div>Home
+    <div>
+      <Nav/>
 
-      <p> This is a new paragraph</p>
+      <Feeds/>
+
+      <Footer/>
+
 
     </div>
   )
